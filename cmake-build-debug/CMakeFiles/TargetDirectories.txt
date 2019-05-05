@@ -1,0 +1,3 @@
+C:/Users/T470S/CLionProjects/khiemShell/cmake-build-debug/CMakeFiles/khiemShell.dir
+C:/Users/T470S/CLionProjects/khiemShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/T470S/CLionProjects/khiemShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
